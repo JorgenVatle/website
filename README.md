@@ -38,7 +38,6 @@ Then download and install [glue](http://glue.readthedocs.org/) and [composer](ht
 #### Install the node dependencies
 
 ```shell
-npm install webpack -g
 npm install
 composer install -no-dev
 ```
@@ -48,19 +47,11 @@ composer install -no-dev
 ```shell
 npm run build
 ```
-or
-```shell
-webpack -p
-```
 
-#### Building while developing
+#### Build and watch for changes
 
 ```shell
-webpack -w
-```
-or
-```shell
-webpack
+npm run watch
 ```
 
 ## Cron job
