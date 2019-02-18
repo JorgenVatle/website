@@ -47,7 +47,9 @@ composer install -no-dev
 ```shell
 npm run build       # Build once, for production
 
-npm run watch       # Build and watch for changes
+npm run build:dev   # Build once, for development
+
+npm run watch       # Build and watch for changes, for development
 ```
 
 ## Cron job
