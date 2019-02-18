@@ -12,8 +12,6 @@ See [LICENSE.md](LICENSE.md)
 
 [npm](https://www.npmjs.com/get-npm) Package manager for JavaScript. (Comes with [Node.js](https://nodejs.org/en/))
 
-[webpack](https://webpack.github.io/) Project builder
-
 [composer](http://getcomposer.org/) PHP dependency manager
 
 [glue](http://glue.readthedocs.org/) Glue is a simple command line tool to generate CSS sprites
