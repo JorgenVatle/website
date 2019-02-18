@@ -45,13 +45,9 @@ composer install -no-dev
 #### You can now build the project.
 
 ```shell
-npm run build
-```
+npm run build       # Build once, for production
 
-#### Build and watch for changes
-
-```shell
-npm run watch
+npm run watch       # Build and watch for changes
 ```
 
 ## Cron job
