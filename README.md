@@ -10,7 +10,7 @@ See [LICENSE.md](LICENSE.md)
 
 ### Building
 
-[nodejs](http://nodejs.org/) Dependency manager
+[npm](https://www.npmjs.com/get-npm) Package manager for JavaScript. (Comes with [Node.js](https://nodejs.org/en/))
 
 [webpack](https://webpack.github.io/) Project builder
 
